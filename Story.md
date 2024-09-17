@@ -6,23 +6,23 @@ Every day, HAL
 would wake up
 and dream of visiting space.
 One day, while HAL 
-was running through corns of wheat, 
-they stumbled upon a [Adjective] [Object].
-To their surprise, the [Object] had magical powers that could [Magical Ability].
- Excited and a bit nervous, [Character’s Name] decided to [Decision or Action].
-As [Character’s Name] embarked on this new adventure, 
-they met a [Adjective] [Secondary Character’s Occupation] 
-named [Secondary Character’s Name]. 
-Together, they faced many challenges, including [Challenge 1] 
-and [Challenge 2]. 
-Despite the obstacles, they grew [Adjective] and [Adjective].
+was running through fields of wheat, 
+they stumbled upon a golden bicycle.
+To their surprise, the bicycle had magical powers that could make it fly.
+Excited and a bit nervous, HAL decided to make like ET and fly that thing.
+As HAL embarked on this new adventure, 
+they met a serious fighter pilot 
+named Arnie. 
+Together, they faced many challenges, including a time travelling robot 
+and deciding which is the correct way to eat a scone. 
+Despite the obstacles, they grew strong and good at coding.
 
-In the end, [Character’s Name] 
-and [Secondary Character’s Name] 
-managed to [Resolution or Achievement]. 
-The village of [Village Name] celebrated their success, 
-and [Character’s Name] realized that [Moral or Lesson Learned].
+In the end, HAL 
+and Arnie
+managed to break the limit of the atmosphere. 
+The village of HSMA-on-sea celebrated their success, 
+and HAL realized that space wasn't even as good as Cornwall.
 
-And so, [Character’s Name] continued to live in [Village Name], 
-always remembering the day they found the [Object] 
+And so, HAL continued to live in HSMA-on-sea, 
+always remembering the day they found the bicycle
 and how it changed their life forever.
