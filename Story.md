@@ -1,12 +1,12 @@
 
-Once upon a time in a small village called [Village Name], 
-there lived a [Adjective] 
-[Occupation] named [Character’s Name]. 
-Every day, [Character’s Name] 
-would [Daily Activity] 
-and dream of [Dream or Goal].
-One day, while [Character’s Name] 
-was [Activity], 
+Once upon a time in a small village called HSMA-on-sea, 
+there lived a wise  
+beekeeper named HAL. 
+Every day, HAL 
+would wake up
+and dream of visiting space.
+One day, while HAL 
+was running through corns of wheat, 
 they stumbled upon a [Adjective] [Object].
 To their surprise, the [Object] had magical powers that could [Magical Ability].
  Excited and a bit nervous, [Character’s Name] decided to [Decision or Action].
